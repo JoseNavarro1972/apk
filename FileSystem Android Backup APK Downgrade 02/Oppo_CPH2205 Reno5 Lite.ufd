@@ -1,0 +1,47 @@
+[Backup]
+SharedBackupEnabled=True
+Type=ZIP
+ZIPLogicalPath=BACKUPsOutput
+
+[DeviceInfo]
+Chipset=mt6779
+Model=CPH2205
+OS=11
+SecurityPatchLevel=2021-03-05
+Vendor=OPPO
+
+[Dumps]
+Backup=Oppo_CPH2205 Reno5 Lite.zip
+
+[ExtractionStatus]
+ExtractionStatus=Success
+
+[General]
+ADBPull=True
+AcquisitionTool=UFED 4PC
+Android_ID=af9b720b3ce6634d
+ConnectionType=Cable No. 170 or Original Cable
+Date=03/11/2023 17:02:43 (-3)
+Device=OPPO_CPH2205
+EndTime=03/11/2023 17:13:17 (-3)
+ExtractionMethod=ADB_BACKUP
+ExtractionNameFromXML=Android Backup APK Downgrade
+ExtractionType=FileSystem
+FullName=CPH2205 Reno5 Lite
+GUID=99D113A7-5AB8-4742-AE82-2CA35ED8AD35
+InternalBuild=7.66.1.150
+MachineName=DESKTOP-2KTQNQI
+Model=CPH2205 Reno5 Lite
+UFEDExtractionMethod=ApkDowngrade
+UfdVer=1.2
+UnitId=317408941
+UserName=
+Vendor=Oppo
+Version=7.66.1.150
+
+[SHA256]
+Oppo_CPH2205 Reno5 Lite.zip=78157E8E62EDC3BB488A1E0E58FA16C36CBBDCFC3598EA11E6C6CBF4BB89FB21
+SummaryReport.pdf=DD8E7D82E57E07A9DB241DC407A53855F74C247FE713AA72DE69EA1B2FCDC35E
+
+[Hash]
+HMAC=Dnu4F5LeSyHUmUuBmJT6EaMM+a4EigCiAX9pOEIGL2o=
